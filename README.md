@@ -1,3 +1,57 @@
+## ament_lint (jazzy) - 0.17.2-1
+
+The packages in the `ament_lint` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ament_lint --override-release-repository-push-url git@github.com:revyos-ros/ament_lint-release.git` on `Tue, 17 Jun 2025 08:22:40 -0000`
+
+These packages were released:
+- `ament_clang_format`
+- `ament_clang_tidy`
+- `ament_cmake_clang_format`
+- `ament_cmake_clang_tidy`
+- `ament_cmake_copyright`
+- `ament_cmake_cppcheck`
+- `ament_cmake_cpplint`
+- `ament_cmake_flake8`
+- `ament_cmake_lint_cmake`
+- `ament_cmake_mypy`
+- `ament_cmake_pclint`
+- `ament_cmake_pep257`
+- `ament_cmake_pycodestyle`
+- `ament_cmake_pyflakes`
+- `ament_cmake_uncrustify`
+- `ament_cmake_xmllint`
+- `ament_copyright`
+- `ament_cppcheck`
+- `ament_cpplint`
+- `ament_flake8`
+- `ament_lint`
+- `ament_lint_auto`
+- `ament_lint_cmake`
+- `ament_lint_common`
+- `ament_mypy`
+- `ament_pclint`
+- `ament_pep257`
+- `ament_pycodestyle`
+- `ament_pyflakes`
+- `ament_uncrustify`
+- `ament_xmllint`
+
+Version of package(s) in repository `ament_lint`:
+
+- upstream repository: https://github.com/ament/ament_lint.git
+- release repository: https://github.com/revyos-ros/ament_lint-release.git
+- rosdistro version: `0.17.2-1`
+- old version: `0.17.1-1`
+- new version: `0.17.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_lint (humble) - 0.12.12-1
 
 The packages in the `ament_lint` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble ament_lint --override-release-repository-push-url git@github.com:revyos-ros/ament_lint-release.git` on `Fri, 13 Jun 2025 06:39:23 -0000`
